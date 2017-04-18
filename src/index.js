@@ -1,7 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+const App = () => {
+    return(
+        <h2>React Rendered from a component</h2>
+        );
+};
+
 ReactDOM.render(
-    React.createElement('h2', null, 'Hello ReactJS'),
+    <App />,
     document.getElementById('root')
 );

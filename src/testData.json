@@ -1,0 +1,19 @@
+{
+    "contests": [
+        {
+            "id": 1,
+            "categoryName": "Moderate",
+            "taskName": "Get water"
+        },
+        {
+            "id": 2,
+            "categoryName": "Urgent",
+            "taskName": "Pay telephone bill"
+        },
+        {
+            "id": 3,
+            "categoryName": "Moderate",
+            "taskName": "Clean room"
+        }
+        ]
+}
